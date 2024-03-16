@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/DWNWND/joker/issues"
   },
-  "homepage": "https://github.com/DWNWND/joker#readme"
+  "homepage": "https://github.com/DWNWND/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
