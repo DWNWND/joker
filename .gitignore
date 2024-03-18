@@ -3,3 +3,6 @@ node_modules/
 
 # Mac OS System file
 .DS_Store
+
+# The lint cache
+.eslintcache
