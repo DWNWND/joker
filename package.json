@@ -1,6 +1,6 @@
 {
   "name": "dwnwnd-joker",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Application that tells jokes",
   "type": "module",
   "main": "src/index.js",
